@@ -7,9 +7,9 @@
 
 :root{
     /* Light Mode Colors */
-    --background-light-color: #A0E4CB;
-    --navbar-light-background-color: #59C1BD;
-    --navbar-light-color: #0D4C92;
+    --background-light-color: #32badc;
+    --navbar-light-background-color: #38d775;
+    --navbar-light-color: #050b11;
     --searchBar-light-box-shadow: #0D4C92;
     --text-light-color: #000;
     
@@ -239,10 +239,7 @@ input::placeholder {
     align-items: center;
 }
 
-.hero-name {
-    /* cursor: url(../images/thanos.png),auto !important; */
-    font-size: 26px;
-}
+
 
 .buttons {
     gap: 5px;
